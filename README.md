@@ -1,7 +1,9 @@
 # Shakespeare-Insult-Generator
+
 Let's insult like Macbeth and them 
 
 This was an assignment in my 3rd year software development class using C
+
 Here's the rubric from the class: 
 You will need to complete a program that will generate and save between 1 and 10,000 "Shakespearian" insults. You complete the program by writing two source code files - a header file "insultgenerator_netid.h" and the implementation file "insultgenerator_netid.cpp". Replace the "netid" part of the filename with your netid. In these files you define and implement three classes, the exception classes: "FileException" and "NumInsultsOutOfBounds" and the generator class "InsultGenerator". The public member functions of the InsultGenerator class are tested in this supplied source code file: TestInsutGenerator.cpp. Examine the code and comments in this program carefully so you can see how your object must behave. The only part of the program that you will need to change is the #include statement, replacing "netid" with your netid. Note that all insults in a list must be unique (no duplicates) and in alphabetical order. The test program tests all public member functions - everything else in the class must be private.
 
